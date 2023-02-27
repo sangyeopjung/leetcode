@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/flood-fill/description/
+// tags: dfs
 
 class Solution {
     vector<pair<int, int>> dxdy {{0,1}, {0,-1}, {1,0}, {-1,0}};

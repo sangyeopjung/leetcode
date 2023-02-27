@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/implement-queue-using-stacks/
+# tags: stack
 
 class MyQueue:
 

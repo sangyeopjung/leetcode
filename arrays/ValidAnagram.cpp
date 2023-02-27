@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/valid-anagram/description/
+// tags: hashmap
 
 class Solution {
 public:

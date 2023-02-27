@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/ransom-note/description/
+// tags: hashmap
 
 class Solution {
 public:

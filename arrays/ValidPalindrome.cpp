@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/valid-palindrome/description/
+// tags: sliding window
 
 class Solution {
 public:

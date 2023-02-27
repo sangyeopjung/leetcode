@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/
+// tags: dfs
 
 /**
  * Definition for a binary tree node.

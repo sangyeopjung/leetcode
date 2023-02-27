@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/linked-list-cycle/
+# tags: linkedlist, cycle
 
 # Definition for singly-linked list.
 # class ListNode:

@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/valid-parentheses/
+// tags: stack
 
 class Solution {
 public:

@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/insert-interval/description/
+// tags: interval
 
 class Solution {
 public:

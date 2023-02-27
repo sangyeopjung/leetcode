@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/balanced-binary-tree/
+// tags: bst, dfs
 
 /**
  * Definition for a binary tree node.

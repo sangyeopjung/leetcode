@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/k-closest-points-to-origin/
+// tags: quickselect, heap, k-closest
 
 // Max-heap : O(klogn)
 class Solution {

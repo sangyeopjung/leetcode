@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
+# tags: variable sliding window
 
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:

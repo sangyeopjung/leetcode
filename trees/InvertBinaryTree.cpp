@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/invert-binary-tree/description/
+// tags: dfs
 
 /**
  * Definition for a binary tree node.
