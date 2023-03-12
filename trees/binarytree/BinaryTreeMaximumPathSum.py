@@ -27,4 +27,3 @@ class Solution:
                     node.val + right, 
                     left + node.val + right)
         return node.val + max(0, left, right)
-        
